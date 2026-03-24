@@ -1,0 +1,4 @@
+# Project dependencies are managed with npm (Node.js), not pip.
+# This placeholder file exists because it was explicitly requested.
+# Project dependencies are managed with npm (Node.js), not pip.
+# This file is present because it was requested during repository setup.
