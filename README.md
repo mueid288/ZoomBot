@@ -36,11 +36,17 @@ cp .env.example .env
 
 ## Local Development (Planned)
 
-Once implementation starts, expected commands will be:
+Use the starter environment now:
 
 ```bash
 npm install
 npm run dev
+```
+
+Health check endpoint:
+
+```bash
+curl http://127.0.0.1:3000/health
 ```
 
 ## Repository Structure

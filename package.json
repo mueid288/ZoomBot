@@ -1,0 +1,30 @@
+{
+  "name": "zoombot",
+  "version": "1.0.0",
+  "description": "ZoomBot is an automation project that detects Zoom links and joins meetings with mic/camera off by default.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "test": "echo \"No tests configured yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mueid288/ZoomBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mueid288/ZoomBot/issues"
+  },
+  "homepage": "https://github.com/mueid288/ZoomBot#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

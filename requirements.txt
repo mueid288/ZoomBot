@@ -1,4 +1,5 @@
-# Project dependencies are managed with npm (Node.js), not pip.
-# This placeholder file exists because it was explicitly requested.
+# Environment requirements
+Node.js>=18
+npm>=9
 # Project dependencies are managed with npm (Node.js), not pip.
 # This file is present because it was requested during repository setup.
